@@ -1,0 +1,13 @@
+{
+    "routes": [
+      {
+        "src": "/data",
+        "dest": "./routes/latihanRouter.js"
+      },
+      {
+        "src": "/data/:id",
+        "dest": "./routes/latihanRouter.js"
+      }
+    ]
+  }
+  
